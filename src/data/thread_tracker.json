@@ -1,0 +1,9 @@
+{
+  "posts": {
+    "postMessageId1": { "threadId": "threadId1", "channelId": "channelId1", "lastActivity": 1720353600000 },
+    "postMessageId2": { "threadId": "threadId2", "channelId": "channelId2", "lastActivity": 1720354000000 }
+  },
+  "latestPostPerChannel": {
+    "channelId1": "postMessageId1"
+  }
+}

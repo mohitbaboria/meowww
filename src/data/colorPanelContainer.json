@@ -1,0 +1,24 @@
+[
+    {
+        "type": 17,
+        "accent_color": 8147605,
+        "spoiler": false,
+        "components": [
+            {
+                "type": 10,
+                "content": "## <:AnimeGirlCuteHeart:1525097030349750323> Color Roles"
+            },
+            {
+                "type": 10,
+                "content": "Choose your color role from the menu below\n\n\u2726 Members with the <@&1522174692876615771> role can use </setcolor:1522956634039648258> to create their own custom color\n\u2726 You can find other roles in <id:customize>"
+            },
+            {
+                "type": "SELECT_MENU_PLACEHOLDER"
+            },
+            {
+                "type": 10,
+                "content": "-# See <#1486717419329159298> for details about <@&1522174692876615771>\n-# Misusing custom colors may result in losing access to the feature"
+            }
+        ]
+    }
+]
